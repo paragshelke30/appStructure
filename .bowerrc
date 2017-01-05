@@ -1,0 +1,7 @@
+{
+    "directory": "src/bower_components",
+    "timeout": 300000,
+    "scripts": {
+        "postinstall": "gulp wiredep"
+    }
+}

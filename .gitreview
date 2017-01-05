@@ -1,0 +1,8 @@
+[gerrit]
+host=project.app
+port=29418
+project=projectName/app.git
+defaultbranch=master
+defaultremote=origin
+defaultrebase=0
+

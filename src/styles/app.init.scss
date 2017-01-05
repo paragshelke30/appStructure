@@ -1,0 +1,8 @@
+.bg-round-image {
+  width: 100vw; height:100vh;
+  background: #c4d48e;
+  background: -moz-linear-gradient(top, #c4d48e 35%, #00a8bf 100%);
+  background: -webkit-linear-gradient(top, #c4d48e 35%,#00a8bf 100%);
+  background: linear-gradient(to bottom, #c4d48e 35%,#00a8bf 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c4d48e', endColorstr='#00a8bf',GradientType=0 );
+}

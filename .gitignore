@@ -1,0 +1,23 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+node_modules/
+platforms/
+plugins/
+remote/
+src/.tmp
+src/lib
+src/apig
+src/bower_components
+resources/android
+resources/ios
+res/
+src/globals
+
+# IOS specific
+.DS_Store
+
+# App template specific
+npm-debug.log
+test-results.xml
+

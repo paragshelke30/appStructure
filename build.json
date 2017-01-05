@@ -1,0 +1,12 @@
+{
+  "ios": {
+    "debug": {
+      "codeSignIdentity": "App",
+      "provisioningProfile": ""
+    },
+    "release": {
+      "codeSignIdentity": "App",
+      "provisioningProfile": ""
+    }
+  }
+}

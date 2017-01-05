@@ -1,0 +1,1 @@
+This file is just a placeholde for the folder, and should be removed when starting a new project.

@@ -1,0 +1,16 @@
+{
+  "ios": {
+    "release": {
+      "codeSignIdentity": "App",
+      "provisioningProfile": ""
+    }
+  },
+  "android": {
+    "release": {
+      "keystore": "../Keystores/Round/round.keystore",
+      "storePassword": "app",
+      "alias": "App",
+      "password": "app"
+    }
+  }
+}
